@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Multi-Stack CRUD API
 
 Este repositório demonstra um **CRUD completo** em **4 stacks diferentes** para fins de **estudo**, **portfólio** e **demonstração técnica**.
@@ -93,3 +94,7 @@ Este projeto é didático — sinta-se livre para:
 ⚡ Licença
 Uso livre para aprendizado e portfólio!
 Desenvolvido por Fernando A. Moreira 🚀
+=======
+# multi-stack-crud-api
+This repository showcases a complete CRUD API for managing users and tasks implemented in 4 different stacks: PHP (Slim), Node.js (Express), Python (FastAPI) and TypeScript (NestJS). It is designed for study, portfolio and technical demonstration, with JWT authentication, SQLite database and modular structure.
+>>>>>>> 3a65b336c7f7f152227f3816f881b43ffaca3d0b
